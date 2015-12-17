@@ -1,0 +1,27 @@
+{
+  "name": "aws-lambda-web",
+  "version": "1.0.0",
+  "description": "Provides Web Platform APIs in AWS Lambda functions",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiktor-k/aws-lambda-web.git"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "web",
+    "platform",
+    "api"
+  ],
+  "author": "Wiktor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiktor-k/aws-lambda-web/issues"
+  },
+  "homepage": "https://github.com/wiktor-k/aws-lambda-web#readme",
+  "dependencies": {
+    "es6-promise": "^3.0.2",
+    "node-fetch": "^1.3.3"
+  }
+}
